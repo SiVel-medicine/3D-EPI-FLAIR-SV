@@ -60,9 +60,8 @@ However, TSE actually loses *more* total signal by the last echo than EPI does, 
 
 ## New Files
 
-- `EPI_vs_TSE_comparison.m` directly compares the EPI and TSE readouts for
-FLAIR contrast efficiency — the core project deliverable, see "Edit 4"
-above.
+- `EPI_vs_TSE_comparison.m` directly compares the EPI and TSE readouts for FLAIR contrast efficiency
+  
 - `FUTURE_WORK_STEADY_STATE.md`. - to be explained later.
 
 ## 3D FLAIR EPI model
@@ -163,7 +162,7 @@ The Point Spread Function (PSF) represents how a point object maps into image sp
 
 This figure presents the residual signal of the tissue of interest as `TI` varies. It is used to select the inversion time that minimises that tissue's signal. Key validation checks are: the TI sweep range covers the predicted null point, the step size is sufficiently fine to resolve the minimum, and the curve around the minimum is smooth (indicating stable numeric computation rather than noise). A well formed dip near the analytic null time indicates that inversion recovery and the `Mz_init` calculation are functioning as intended.
 
-## Figure: Comparison
+## Figure (9): Comparison
 
 <img width="1446" height="938" alt="Image" src="https://github.com/user-attachments/assets/38756557-cea8-451e-8296-052a27f3f5ec" />
 
