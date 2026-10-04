@@ -2,7 +2,7 @@
 
 Adaptation of TSE EPG code to include FLAIR, plus a FLAIR EPI test workflow. This is a continuation of [EPG-X](https://github.com/mriphysics/EPG-X?utm_source=chatgpt.com), extending TSE simulation to TSE FLAIR and then to EPI FLAIR using the EPG structure and principles learned from [EPG repository](https://github.com/imr-framework/epg?utm_source=chatgpt.com).
 
-This version is an adaption of my KURF partner's work Valeriia Ognevaia, looking for any gaps and concepts which can be added to make the code theoretically more robust. This code could be improved further.
+This version is an adaption of my KURF partner's work Valeriia Ognevaia (https://github.com/viilerr/3D-EPG-EPI-FLAIR), looking for any gaps and concepts which can be added to make the code theoretically more robust. This code could be improved further.
 
 ## Summary
 
