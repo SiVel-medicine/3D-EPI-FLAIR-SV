@@ -109,6 +109,8 @@ point spread function is calculated.
 - Figure 8, `TI optimisation`: sweeps TI to compare WM-GM contrast and CSF
 suppression.
 
+- Figure (9), `Comparison`: as I described above
+
 
 Below are the eight figures produced by the simulation. These are updated from the original repo from Valeriia Ognevaia, please refer to her code for better explanations.
 
